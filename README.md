@@ -1,7 +1,10 @@
 # Driver Drowsiness Detection System
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MayurMote/DDDS?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MayurMote/DDDS?color=%2300ff00&style=plastic)
 ![IDE](https://img.shields.io/badge/IDE-Open%20in%20Visual%20Studio%20Code-brightgreen)
+![GitHub contributors](https://img.shields.io/github/contributors/MayurMote/DDDS?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/MayurMote/DDDS?color=%2300ff00&style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/MayurMote/DDDS?color=%2300ff00&style=plastic)
 
 - A system which alarms the driver as soon as it detects that the driver is becoming drowsy to prevent any road accident.
 - Drowsiness is detected by calculating eye aspect ratio and mouth aspect ratio and comparing it with the threshold value.
