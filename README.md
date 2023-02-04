@@ -25,12 +25,12 @@
 ## How to use the Application
 
 1. Click on Register button to create new user account.
-   <img src="static\acm-logo.png" width="350" title="hover text">
+   <img src="static\Main_Page.jpg" width="350" title="hover text">
 2. Sign Up Page.
    <img src="static\Signup_page.jpg" width="350" title="hover text">
 3. Login to the account by providing valid credentials.
    <img src="static\login_page.jpg" width="350" title="hover text">
 4. Click on start detection button to capture real-time video for Drowsiness Detection.
    <img src="static\DD_page.jpg" width="350" title="hover text">
-5. Admin dashboard for statistical data
+5. Admin dashboard for statistical data.
    <img src="static\Admin_Dashboard_Page.jpg" width="350" title="hover text">
