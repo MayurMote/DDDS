@@ -24,5 +24,5 @@
 
 ## How to use the Application
 
-1. Click on Register button to create new user account
-   ![Temp](Driver-Drowsiness-Detection-System\static\car.jpg)
+1. Click on Register button to create new user account.
+   <img src="static\acm-logo.png" width="350" title="hover text">
