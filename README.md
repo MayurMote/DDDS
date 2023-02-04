@@ -25,12 +25,12 @@
 ## How to use the Application
 
 1. Click on Register button to create new user account.
-   <br><img src="static\Main_Page.jpg" width="800" title="hover text">
+   <br><br><img src="static\Main_Page.jpg" width="800" title="hover text">
 2. Sign Up Page.
-   <br><img src="static\Signup_page.jpg" width="600" title="hover text">
+   <br><br><img src="static\Signup_page.jpg" width="800" title="hover text">
 3. Login to the account by providing valid credentials.
-   <br><img src="static\login_page.jpg" width="500" title="hover text">
+   <br><br><img src="static\login_page.jpg" width="800" title="hover text">
 4. Click on start detection button to capture real-time video for Drowsiness Detection.
-   <br><img src="static\DD_page.jpg" width="800" title="hover text">
+   <br><br><img src="static\DD_page.jpg" width="800" title="hover text">
 5. Admin dashboard for statistical data.
-   <br><img src="static\Admin_Dashboard_Page.jpg" width="900" title="hover text">
+   <br><br><img src="static\Admin_Dashboard_Page.jpg" width="800" title="hover text">
