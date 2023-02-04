@@ -1,6 +1,6 @@
 # Driver Drowsiness Detection System
 
-![IDE](https://img.shields.io/badge/IDE-Open%20in%20Visual%20Studio%20Code-brightgreen)
+![IDE](https://img.shields.io/badge/IDE-Open%20in%20Visual%20Studio%20Code-blue)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MayurMote/DDDS?color=%2366ff00&style=plastic)
 ![GitHub contributors](https://img.shields.io/github/contributors/MayurMote/DDDS?color=%2366ff00&style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/MayurMote/DDDS?color=%2366FF00&style=plastic)
